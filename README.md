@@ -1,5 +1,9 @@
 # password-checker
+RUN FIRST!
+python -m pip install -r requirements.txt
 
+
+THEN
 RUN FROM THE COMMAND LINE
 
 python checkmypass.py "PASSWORD TO CHECK"
