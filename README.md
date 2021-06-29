@@ -8,6 +8,7 @@ THEN
 RUN FROM THE COMMAND LINE
 
 python checkmypass.py "PASSWORD TO CHECK"
+
 EXAMPLE -- checking 1 password
 python checkmypass.py helloworld 
 
