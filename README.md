@@ -8,5 +8,10 @@ THEN
 RUN FROM THE COMMAND LINE
 
 python checkmypass.py "PASSWORD TO CHECK"
+EXAMPLE -- checking 1 password
+python checkmypass.py helloworld 
 
-can check as many as you want at a time, listed one after another
+-- 2 passwords
+python checkmypass.py helloworld test
+
+-- can check as many as you want at a time, listed one after another
